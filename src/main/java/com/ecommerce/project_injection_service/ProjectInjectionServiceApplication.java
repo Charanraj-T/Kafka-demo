@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ProjectInjectionServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ProjectInjectionServiceApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(ProjectInjectionServiceApplication.class, args);
+    }
 }
